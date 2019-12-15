@@ -1,39 +1,17 @@
-<h1>-Chào mừng bạn đến khu du lịch Phong Nha Kẽ Bàng </h1>
-<h2>Sau đây chúng tôi sẽ giới thiệu cho các bạn sơ lược về web du lịch của chúng tôi</h2>
-<h3>-Trang chủ:<br>
-  
-  ![img](11.GIF)
-  
-  +Kèm thêm các thông tin cơ bản.
-  
-  ![img](12.GIF)
-  
-  -Danh Mục Thông Tin(Giới thiệu chung về Phong Nha - kẽ bàng):
-  
-  ![img](13.GIF)
-  
-  -Danh mục đăng kí:
-  
-  ![img](14.GIF)
-  
-  +khi nhập đầy đủ thông tin thì hệ thống sẽ hiện ra như hình dưới đây:
-  
-  ![img](15.GIF)
-  
-  -Danh mục các Tour ở Phong Nha - kẽ bàng:
-  
-  ![img](16.GIF)
-  
-  - ngoài ra khi ở chế độ quản lí bạn có thể cập nhật các tour mới và xóa các tour cũ:
-  (minh họa ảnh dưới)
-  
-  ![img](17.GIF)
-  
-  
-  
-  
-  
-  
-  
-  
-  
+Báo du lịch
+Trang giới thiệu du lịch ở việt nam(nền)
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich1.png" alt="dulich1.png" border="0" />
+Trang 2: Trang chủ của Báo Du Lịch
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich2.png" alt="dulich2.png" border="0" />
+Cụ thể hơn có các mục nhỏ như: Du Lịch Đà Nẵng
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich3.png" alt="dulich3.png" border="0" />
+Tin Tức Du Lịch
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich4.png" alt="dulich4.png" border="0" />
+Khoa Học Công Nghệ
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich6.png" alt="dulich6.png" border="0" />
+Trang 3: Trang Thông Tin
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich7.png" alt="dulich7.png" border="0" />
+Trang 4: Trang đăng kí để khách có thể đặt lịch trình đi du lịch của mình, có các gói tour hấp dẫn.
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich8.png" alt="dulich8.png" border="0" />
+Trang 5: Trang tác giả của các bài báo được đăng lên
+<img src="https://www.upsieutoc.com/images/2019/12/15/dulich9.png" alt="dulich9.png" border="0" />
